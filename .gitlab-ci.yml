@@ -1,0 +1,4 @@
+include:
+  - project: yunwei/general-cicd
+    ref: main
+    file: ad-events.yml
